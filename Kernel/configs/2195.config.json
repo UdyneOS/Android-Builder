@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
+      "name": "2195",
+      "repo": "https://github.com/realme-kernel-opensource/realmeC15_AndroidQ-kernel-source",
       "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "device": "2195",
+      "defconfig": "2195_defconfig"
     },
     "toolchains": [
       {
