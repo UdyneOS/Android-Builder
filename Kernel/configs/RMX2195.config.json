@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Realme c15（Qualcomm）",
       "repo": "https://github.com/realme-kernel-opensource/realmeC15_AndroidQ-kernel-source",
-      "branch": "lineage-17.1",
+      "branch": "master",
       "device": "RMX2195",
       "defconfig": "RMX2195_defconfig"
     },
@@ -48,7 +48,7 @@
     "kernelSource": {
       "name": "Realme c15（Google）",
       "repo": "https://github.com/realme-kernel-opensource/realmeC15_AndroidQ-kernel-source",
-      "branch": "lineage-17.1",
+      "branch": "master",
       "device": "RMX2195",
       "defconfig": "RMX2195_defconfig"
     },
@@ -95,7 +95,7 @@
     "kernelSource": {
       "name": "realme c15（Google-Docker）",
       "repo": "https://github.com/realme-kernel-opensource/realmeC15_AndroidQ-kernel-source",
-      "branch": "lineage-17.1",
+      "branch": "master",
       "device": "RMX2195",
       "defconfig": "RMX2195_defconfig"
     },
